@@ -1,6 +1,6 @@
-Jadecore-5.4.0-17399-dev
+Jadecore-5.4.0-17399
 ========================
 
-not full work... somes bugs.
+not full supported... somes bugs.
 
 database base (clean) in sql folder.
